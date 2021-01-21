@@ -5,8 +5,8 @@ Visit your owner panel on [SQLMatches.com](https://sqlmatches.com) under the com
 ![sellout](https://tinyurl.com/y6br8dx3)
 
 ## Live Site
-[SQLMatches.com](https://sqlmatches.com)
-[TestLeague](https://sqlmatches.com/c/TestLeague)
+- [SQLMatches.com](https://sqlmatches.com)
+- [TestLeague](https://sqlmatches.com/c/TestLeague)
 
 ## Screenshots
 ![1](https://tinyurl.com/y3lyk7xg)
